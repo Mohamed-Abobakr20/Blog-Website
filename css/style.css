@@ -1,0 +1,51 @@
+body {
+    background-color: #f1f1f1;
+}
+
+
+/*header*/
+
+.mark {
+    background-color: black;
+    color: white;
+    display: inline-block;
+    padding: 0px 8px;
+}
+
+
+/*cards*/
+
+.btn-light {
+    border: 1px solid gray;
+    border-radius: 0;
+    padding: 10px 25px;
+}
+
+.comment {
+    background-color: black;
+}
+
+.card-header {
+    font-size: 1.5rem;
+    border: none;
+}
+
+.spanList {
+    font-size: 15px;
+}
+
+.mark1 {
+    background-color: #f1f1f1;
+    color: black;
+    display: inline-block;
+    padding: 0px 8px;
+}
+
+
+/*footer*/
+
+.btn-dark {
+    background-color: black;
+    border-radius: 0;
+    padding: 10px 25px;
+}
